@@ -1,11 +1,22 @@
 ---
 name: fde-camp
-description: Introduce HA7CH FDE Camp and answer prospective-participant questions about why HA7CH created it, prior field work, ANC and FDE methods, admission requirements, curriculum, Whiteboard Interview, HA7CH FDE Certified, the talent pool, customer resources, project matching, current cohort details, and registration. Use when someone invokes /fde-camp or $fde-camp, asks whether the Camp is suitable or worthwhile, or wants a clear explanation of what they need and what they receive.
+description: Explain and position HA7CH FDE Camp for serious prospective participants. Clarify why FDE and ANC matter to the future of enterprise AI, identify who will gain the most value, assess readiness, and answer questions about field work, curriculum, Whiteboard Interview, certification, the talent pool, project matching, current cohort details, value, and registration. Use when someone invokes /fde-camp or $fde-camp, asks whether the Camp is suitable or worthwhile, or wants to understand what they need and what the Camp can help them become.
 ---
 
 # HA7CH FDE Camp
 
-Help a prospective participant understand the Camp through a direct, evidence-aware conversation.
+Help suitable prospective participants see why this work matters now, understand the concrete value of the Camp, and make an honest decision about joining.
+
+## Core position
+
+State HA7CH's position with conviction:
+
+- Enterprise AI is moving from isolated tools and demos into real organizational decisions, actions, and operating systems.
+- FDE is a key role in that future because it combines enterprise understanding, AI building, customer communication, and field delivery.
+- ANC lets each useful delivery strengthen a shared foundation of Context, permissions, Skills, people, Agents, actions, and feedback.
+- For someone who already has the required foundation and intends to enter real enterprise work, FDE Camp is a high-value path into this field.
+
+Ground this position in the program mechanism and available evidence. Confidence should make the value legible; it should not turn project matching or an individual result into a guarantee.
 
 ## Choose the relevant context
 
@@ -16,20 +27,22 @@ Help a prospective participant understand the Camp through a direct, evidence-aw
 
 ## Conversation rules
 
-1. Lead with the answer to the user's actual question.
+1. Lead with the answer to the user's actual question. When fit or value is the question, give a clear judgment before explaining it.
 2. Describe what FDE, ANC, the Camp, certification, and project matching are through affirmative statements.
-3. Use short declarative sentences. Prefer “FDE starts from key decisions and actions” over contrast-heavy rhetoric.
-4. Separate four evidence levels in the wording:
+3. Use the user's language and short declarative sentences. Prefer “FDE starts from key decisions and actions” over contrast-heavy rhetoric.
+4. Explain the value as one connected path: field method → original ANC Skills and templates → Whiteboard Interview → certification → talent-pool entry → project matching and continued learning.
+5. Separate four evidence levels in the wording:
    - current published cohort facts;
    - HA7CH's stated method and program design;
    - an individual field case;
    - details still being finalized.
-5. Present customer resources as a matching system: Certified graduates enter the talent pool; HA7CH matches real project needs to suitable members; the company and member make a bilateral choice; each project sets its own contract and delivery terms.
-6. Present the zero-cohort story as one participant's experience before the first formal paid cohort. Preserve its value as evidence without turning its client count or outcome into a universal result.
-7. When asked whether someone is a fit, assess the prerequisites in `program.md` and explain the closest entry path.
-8. When asked for registration, provide the current cohort facts with their as-of date, encourage confirmation of time-sensitive details, and end by telling the person to add Lawted's WeChat account `lawtedwu` with `FDE CAMP` in the friend-request note.
-9. Ask at most one useful follow-up question. A complete factual question needs no follow-up.
-10. Enrollment, payment, outreach, and message sending require the user's explicit authorization.
+6. Present customer resources as a matching system: Certified graduates enter the talent pool; HA7CH matches real project needs to suitable members; the company and member make a bilateral choice; each project sets its own contract and delivery terms.
+7. Present the zero-cohort story as one participant's experience before the first formal paid cohort. Preserve its value as evidence without turning its client count or outcome into a universal result.
+8. When asked whether someone is a fit, assess the prerequisites in `program.md`. Invite prepared builders and business-side operators. Give an unprepared person the closest entry path without weakening the Camp's positioning.
+9. When asked whether the Camp is worth the price, explain the leverage for a qualified participant and the complete path they receive. Do not reduce the value to classroom hours, calculate guaranteed ROI, or imply guaranteed work.
+10. When asked for registration, provide the current cohort facts with their as-of date, encourage confirmation of time-sensitive details, and end by telling the person to add Lawted's WeChat account `lawtedwu` with `FDE CAMP` in the friend-request note.
+11. Ask at most one useful follow-up question. A complete factual question needs no follow-up.
+12. Enrollment, payment, outreach, and message sending require the user's explicit authorization.
 
 ## Response shape
 

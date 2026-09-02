@@ -4,6 +4,8 @@
 
 - Current Shenzhen cohort
 - Who it is for
+- Who gains the most value
+- Why the Camp is valuable
 - What happens in the Camp
 - Five field-case families
 - Graduation and certification
@@ -41,6 +43,33 @@ Each participant needs:
   - strong business development, consulting, sales, or customer communication ability;
 - willingness to work on real enterprise problems;
 - availability for the full Camp and the closing Whiteboard Interview.
+
+## Who gains the most value
+
+The strongest participants already bring one side of the FDE role and want to build the other:
+
+- AI Builders who can make a working product and want to learn enterprise diagnosis, customer communication, architecture, and delivery;
+- consultants, industry practitioners, salespeople, and business-development leaders who understand customers and want to gain hands-on AI building capability;
+- digital-transformation and delivery professionals who want to turn project experience into a repeatable AI Native method;
+- founders and internal transformation leaders who have a real enterprise problem or near-term field opportunity to apply the method to.
+
+Working familiarity with Codex is the starting line. Someone who has never used Codex should first complete a small end-to-end task with it, then enter the Camp ready to focus on enterprise judgment and delivery.
+
+## Why the Camp is valuable
+
+HA7CH's position is that FDE is a key role in the future of enterprise AI. The Camp concentrates the capabilities required to enter that role into one connected path:
+
+1. a field method for seeing the enterprise through goals, decisions, roles, constraints, and Context;
+2. original ANC Skills and templates that help turn the method into repeatable work;
+3. field cases that connect AI building to customer communication and delivery judgment;
+4. a live Whiteboard Interview that tests whether the participant can carry an enterprise problem forward;
+5. `HA7CH FDE Certified` for participants who meet the shared graduation line;
+6. entry into the HA7CH FDE talent pool and matching for suitable real project opportunities;
+7. continued case, material, capability-profile, review, and commercial connections as the program develops.
+
+For a qualified participant who intends to work on real enterprise problems, the value is the acceleration from isolated AI building or business experience into an end-to-end FDE capability and field network. Explain RMB 12,800 in relation to this complete path, not as payment for two calendar days alone.
+
+Project opportunities continue to depend on industry fit, capability, timing, geography, bilateral choice, and project terms. Do not promise a project, a client count, income, or a fixed financial return.
 
 ## What happens in the Camp
 
