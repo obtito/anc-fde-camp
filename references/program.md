@@ -24,9 +24,11 @@ As of 2026-09-02:
 - City: Shenzhen
 - Format: two days and one night, small cohort
 - Price: RMB 12,800 per person
-- Registration: add Lawted on WeChat and include `FDE CAMP` in the note
+- Registration: add Lawted's WeChat account `lawtedwu` and include `FDE CAMP` in the friend-request note
 
 Treat these as time-sensitive published details and encourage the participant to confirm the latest logistics before payment or travel.
+
+End registration guidance with this actionable instruction: add WeChat `lawtedwu` and write `FDE CAMP` in the friend-request note.
 
 ## Who it is for
 
