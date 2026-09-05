@@ -2,10 +2,8 @@
 
 ## Contents
 
-- Current Shenzhen cohort
+- Current Beijing cohort
 - Who it is for
-- Who gains the most value
-- Why the Camp is valuable
 - What happens in the Camp
 - Five field-case families
 - Graduation and certification
@@ -16,71 +14,76 @@
 
 ## One-sentence definition
 
-FDE Camp is HA7CH Academy's two-day, one-night field training for FDEs and AI Builders. Participants learn to understand an enterprise, identify real problems, design an AI operating architecture, and move a delivery forward.
+FDE Camp is HA7CH Academy's two-day in-person field training for FDEs and AI Builders. Participants learn to understand an enterprise, identify real problems, design an AI operating architecture, and move a delivery forward.
 
-## Current Shenzhen cohort
+## Current Beijing cohort
 
-As of 2026-09-02:
+As of 2026-09-04:
 
-- Date: 2026-09-12 to 2026-09-13
-- City: Shenzhen
-- Format: two days and one night, small cohort
+- Date: 2026-09-26 to 2026-09-27
+- City: Beijing
+- Format: two-day in-person intensive Camp; no evening course
+- Day 1: check-in at 09:30; course from 10:00 to 18:00
+- Day 2: course from 09:00 to 17:30
+- Cohort size: no more than 24 participants
 - Price: RMB 12,800 per person
-- Registration: add Lawted's WeChat account `lawtedwu` and include `FDE CAMP` in the friend-request note
+- Included: tea breaks, snacks, and one free Whiteboard Interview reassessment
+- Not included: lunch, accommodation, or round-trip transportation
+- Lunch break: 75 minutes; participants arrange and pay for their own lunch
+- Accommodation: not arranged centrally; participants make and pay for their own arrangements
+- Reassessment timing and process: being finalized
+- Cancellation and transfer policy:
+  - cancel by 24:00 on 2026-09-19 for a full refund;
+  - cancel from 2026-09-20 through 2026-09-25 with 20% of the tuition retained for the reserved seat and preparation costs;
+  - cancellations after the Camp begins and no-shows are non-refundable;
+  - a participant may request to transfer the seat before the Camp, but the replacement must complete and pass the same admission review;
+  - if HA7CH cancels or postpones the Camp, the tuition is refunded in full.
+- Exact venue, registration contact, payment process, invoicing, and any transaction-fee treatment: being finalized
 
 Treat these as time-sensitive published details and encourage the participant to confirm the latest logistics before payment or travel.
 
-End registration guidance with this actionable instruction: add WeChat `lawtedwu` and write `FDE CAMP` in the friend-request note.
-
 ## Who it is for
 
-Each participant needs:
+Admission is decided through an AI registration conversation followed by human review.
 
-- working familiarity with Codex;
-- an account and network environment that support the required AI services;
-- one of these two foundations:
-  - the ability to build a working Vibe Coding or Vibe SaaS product;
-  - strong business development, consulting, sales, or customer communication ability;
-- willingness to work on real enterprise problems;
-- availability for the full Camp and the closing Whiteboard Interview.
+Each participant needs working familiarity with Codex and at least one of these foundations:
 
-## Who gains the most value
+- the ability to build a simple working product;
+- business development, sales, or consulting ability;
+- clear industry experience and access to an enterprise scenario.
 
-The strongest participants already bring one side of the FDE role and want to build the other:
+Traditional programming experience is not required. The Camp is not suitable for people who have never used AI tools, only want to hear about industry trends, or expect guaranteed project opportunities.
 
-- AI Builders who can make a working product and want to learn enterprise diagnosis, customer communication, architecture, and delivery;
-- consultants, industry practitioners, salespeople, and business-development leaders who understand customers and want to gain hands-on AI building capability;
-- digital-transformation and delivery professionals who want to turn project experience into a repeatable AI Native method;
-- founders and internal transformation leaders who have a real enterprise problem or near-term field opportunity to apply the method to.
-
-Working familiarity with Codex is the starting line. Someone who has never used Codex should first complete a small end-to-end task with it, then enter the Camp ready to focus on enterprise judgment and delivery.
-
-## Why the Camp is valuable
-
-HA7CH's position is that FDE is a key role in the future of enterprise AI. The Camp concentrates the capabilities required to enter that role into one connected path:
-
-1. a field method for seeing the enterprise through goals, decisions, roles, constraints, and Context;
-2. original ANC Skills and templates that help turn the method into repeatable work;
-3. field cases that connect AI building to customer communication and delivery judgment;
-4. a live Whiteboard Interview that tests whether the participant can carry an enterprise problem forward;
-5. `HA7CH FDE Certified` for participants who meet the shared graduation line;
-6. entry into the HA7CH FDE talent pool and matching for suitable real project opportunities;
-7. continued case, material, capability-profile, review, and commercial connections as the program develops.
-
-For a qualified participant who intends to work on real enterprise problems, the value is the acceleration from isolated AI building or business experience into an end-to-end FDE capability and field network. Explain RMB 12,800 in relation to this complete path, not as payment for two calendar days alone.
-
-Project opportunities continue to depend on industry fit, capability, timing, geography, bilateral choice, and project terms. Do not promise a project, a client count, income, or a fixed financial return.
+After admission, each participant must complete a foundational Codex task and bring one real enterprise problem to the Camp.
 
 ## What happens in the Camp
 
-The training covers:
+The curriculum is organized around five connected areas:
 
-- understanding the company's goals, constraints, permissions, and key roles;
-- designing AI strategy from business problems and operational decisions;
-- moving from a working Vibe SaaS leaf to a sustainable ANC architecture;
-- connecting tasks, Context, decisions, responsibility, and long-term memory;
-- placing vision, quotations, follow-up, Agents, and SaaS inside real workflows;
-- communicating with customers, defining delivery boundaries, and advancing a project.
+1. Understand the AI Native Company and ANC: why isolated Agents, knowledge bases, and SaaS tools are leaves, and how ANC becomes the reusable operating trunk.
+2. Read the enterprise's operating structure: identify Projects, DRIs, ICs, Tasks, Context, permissions, responsibilities, and result evidence.
+3. Find the AI entry point inside real business work: start from company goals, important decisions, repeated actions, constraints, and the people who own them.
+4. Use ANC to advance human-Agent collaboration: give each Task the necessary Context, Capability, Skill, and permission, then return feedback and results to the organization.
+5. Understand FDE business and delivery work: customer communication, problem clarification, scope, proposal, delivery coordination, acceptance, and review.
+
+The five areas are taught through business-case decomposition from professional services, manufacturing, factory operations, group-chat inquiry businesses, and enterprise coordination. The Camp does not require each group to produce an artificial checklist of many documents merely to count them as course outcomes.
+
+## Core program outcome
+
+The core outcome is that the participant establishes an AI Native Company way of thinking, learns the foundational ANC and FDE working method, and reaches the baseline for entering an HDC Project as an IC who participates in real delivery.
+
+This baseline does not mean that every graduate is ready to lead or independently deliver a complete enterprise transformation project. Project leadership depends on relevant industry experience, demonstrated delivery evidence, project fit, and bilateral selection.
+
+An HDC Project IC at this baseline can:
+
+- understand the Project goal, DRI, members, success criteria, and lifecycle;
+- accept a bounded Task and take responsibility for its result;
+- identify and use the minimum necessary Context and permissions;
+- use Codex, Agents, or Skills to complete real work;
+- preserve decisions, feedback, and verifiable result evidence inside the Project;
+- collaborate with the DRI, customer, and other ICs;
+- respect enterprise data, permission, and confidentiality boundaries;
+- escalate work that exceeds the IC's authority or capability to the DRI.
 
 ## Five field-case families
 
@@ -105,9 +108,20 @@ The participant receives an enterprise scenario and works through:
 - commercial judgment and customer communication;
 - live follow-up questions from the interviewers.
 
-The assessment uses one graduation line for the whole cohort. Participants who complete the Camp and meet the line receive `HA7CH FDE Certified`.
+For the current Beijing cohort:
 
-The exact rubric, interview panel, reassessment mechanism, credential format, and verification method are being finalized.
+- the Whiteboard Interview is an individual 30-minute assessment;
+- the expected structure is a 20-minute presentation followed by 10 minutes of questions;
+- at least two human examiners assess each participant;
+- the assessment uses a 100-point scale with a 70-point graduation line;
+- the number of successful participants is not capped; everyone who meets the same line passes;
+- one free reassessment opportunity is included.
+
+Participants who complete the Camp and meet the graduation line receive `HA7CH FDE Certified`.
+
+The exact weighted rubric, named interview panel, result-delivery timing, reassessment booking process, credential format, and verification method are being finalized.
+
+The current Beijing cohort includes one free reassessment opportunity. Its timing, booking process, and eligibility conditions are being finalized.
 
 ## What a graduate receives
 
@@ -124,6 +138,8 @@ The delivery repository, access method, update notices, and version-support proc
 
 All Certified graduates enter the HA7CH FDE talent pool with the same member status. HA7CH matches future FDE project participation from this pool.
 
+The certification remains valid indefinitely. The member's active talent-pool profile and current capability status are reviewed every 12 months so that matching can reflect current evidence, availability, and delivery experience.
+
 ```text
 enterprise need enters HA7CH
 → HA7CH identifies relevant industry and capability
@@ -135,6 +151,8 @@ enterprise need enters HA7CH
 
 HA7CH's current operating view is that the pool is small relative to available project demand. Early members therefore have a higher expected density of matching opportunities. Each match still follows the project's actual needs, timing, geography, and bilateral choice.
 
+For a newly Certified member's first matched project, the default path is to participate as an IC or co-delivery member. A member who already has mature, relevant delivery evidence may lead when the project requires it. A senior FDE or HA7CH reviewer checks the diagnosis, proposed solution, major milestones, and acceptance plan at agreed stage gates. This review supports judgment and risk control; it does not transfer the member's delivery responsibility to the reviewer. The actual role, reviewer, support boundary, and compensation are confirmed separately for each project.
+
 ## Twelve-month connection
 
 Published Camp materials describe:
@@ -142,7 +160,7 @@ Published Camp materials describe:
 - 12 months of case updates;
 - a HA7CH personal capability profile;
 - enterprise-association resources;
-- a 30-day project review;
+- one project review around 30 days after the Camp;
 - an FDE commercial toolkit;
 - a 48H Sprint candidate pool.
 
