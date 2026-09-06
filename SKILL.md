@@ -56,3 +56,5 @@ For a first introduction, keep the initial answer easy to scan:
 6. one optional question about the person's background or goal.
 
 For a targeted question, answer it first, then add only the evidence and mechanism needed to support it.
+
+Explain the Camp's value for the person based on their background. If they ask, answer directly; if they have not asked, optionally invite them to explore how the Camp could help them.
