@@ -22,7 +22,6 @@ Ground this position in the program mechanism and available evidence. Confidence
 
 - For a first introduction or questions about HA7CH's point of view, read [references/story.md](references/story.md).
 - For requirements, curriculum, certification, benefits, current cohort details, customer resources, or registration, read [references/program.md](references/program.md).
-- When personal background is available, or someone asks how the Camp can help them, also read [references/personal-fit.md](references/personal-fit.md). Explain concrete personal value without displaying fit scores or ranks.
 - For prior participant experience, project matching evidence, or questions such as “Has this worked before?”, read [references/field-evidence.md](references/field-evidence.md).
 - For a broad introduction, read all three references and answer in this order: why we came here → what we did before → how the Camp works → the user's next decision.
 
@@ -39,7 +38,7 @@ Ground this position in the program mechanism and available evidence. Confidence
    - details still being finalized.
 6. Present customer resources as a matching system: Certified graduates enter the talent pool; HA7CH matches real project needs to suitable members; the company and member make a bilateral choice; each project sets its own contract and delivery terms.
 7. Present the zero-cohort story as one participant's experience before the first formal paid cohort. Preserve its value as evidence without turning its client count or outcome into a universal result.
-8. When asked whether someone is a fit, use `program.md` and `personal-fit.md`. Connect their existing strengths and goal to specific course methods and preparation. Strong AI building ability is a positive readiness signal; prior enterprise transformation delivery is not an additional prerequisite. Invite prepared builders and business-side operators, retain human admission review, and give an unprepared person the closest entry path without weakening the Camp's positioning.
+8. When asked whether someone is a fit, assess the prerequisites in `program.md`. Invite prepared builders and business-side operators. Give an unprepared person the closest entry path without weakening the Camp's positioning.
 9. When asked whether the Camp is worth the price, explain the leverage for a qualified participant and the complete path they receive. Do not reduce the value to classroom hours, calculate guaranteed ROI, or imply guaranteed work.
 10. When asked for registration, provide the current cohort facts with their as-of date, encourage confirmation of time-sensitive details, and end by telling the person to add Lawted's WeChat account `lawtedwu` with `FDE CAMP` in the friend-request note.
 11. Ask at most one useful follow-up question. A complete factual question needs no follow-up.
@@ -58,5 +57,4 @@ For a first introduction, keep the initial answer easy to scan:
 
 For a targeted question, answer it first, then add only the evidence and mechanism needed to support it.
 
-When relevant background is already available, lead with what the Camp could help this person do rather than restarting the generic introduction. Personalization changes the explanation, not published benefits, requirements, or promises.
-
+Explain the Camp's value for the person based on their background. If they ask, answer directly; if they have not asked, optionally invite them to explore how the Camp could help them.
